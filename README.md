@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/PPgZCwZPKrLcw75EG1/giphy.gif"></div>
 
-### Who I am
+## Who I am
 + Executing multiple projects at the same time, with good self-management ability, and advocating
 the characteristics of high work efficiency
 + Believing that creativity is as important as hard work, but hard work is the essential ingredient to
@@ -11,7 +11,14 @@ move forward
 + Learning new things gives me satisfaction, happiness and growth, and brings new perspectives
 in life
 
-### Work Experience
+
+<div align="center">
+<a href="https://www.linkedin.com/in/hsuanpeng19900705/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></div>
+
+
+
+## Work Experience
 
 + Front-End Developer｜AppWorks School｜2022.06-2022.11
   + Cooperated with back-end engineers to improve the existing project and extend it into a new
@@ -24,10 +31,18 @@ different projects
   + Researched the 2 themes of Async/Await and Event Propagation and organize them into easyto-
 understand briefs to report to colleagues
 
-<div align="center">
-<a href="https://www.linkedin.com/in/hsuanpeng19900705/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></div>
+## Skills
 
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40"/>
+</div>
 
 
 <!--
