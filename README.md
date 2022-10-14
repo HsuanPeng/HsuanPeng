@@ -1,3 +1,8 @@
+<br/>
+
+<div align="center">
+<img src="https://media.giphy.com/media/PPgZCwZPKrLcw75EG1/giphy.gif"></div>
+
 ### Who I am
 + Executing multiple projects at the same time, with good self-management ability, and advocating
 the characteristics of high work efficiency
