@@ -19,11 +19,9 @@ Outside of work, I enjoy hiking, reading, and cooking—activities that keep me 
 Feel free to reach out to me via lisalisa12332180@gmail.com
 
 Email｜lisalisa12332180@gmail.com
-
+Protfolio | https://my-portfolio-bmxa.vercel.app/
 Github｜https://github.com/HsuanPeng
-
 LinkedIn｜https://www.linkedin.com/in/hsuanpeng19900705/
-
 Medium｜https://medium.com/@lisalisa12332180
 
 
