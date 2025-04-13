@@ -4,11 +4,15 @@
 <img src="https://media.giphy.com/media/PPgZCwZPKrLcw75EG1/giphy.gif"></div>
 
 ## Who I am
-Hi, I’m a front-end developer with a solid background in React and Vue, and a strong passion for creating intuitive and engaging user experiences. I pay close attention to UI/UX details and enjoy building interfaces that not only look great but also feel smooth and user-friendly.
+Hi! I’m a front-end developer with hands-on building smooth, responsive, and user-friendly interfaces.
 
-Currently, I work at KGI Securities, where I focus on developing and maintaining front-end applications. I’m fluent in both English and Mandarin, which allows me to collaborate effectively with international teams and ensure clear communication and timely delivery. I also assist with UI/UX design refinements when needed to help bridge the gap between design and development.
+I’m fluent in both English and Mandarin, making communication easy and efficient across international teams.
 
-Previously, I was a front-end developer at a startup, where I worked in an agile team using Scrum. That experience trained me to adapt quickly, pick up new technologies on the fly, and deliver high-quality features in fast-paced environments.
+Currently working at KGI Securities, I’ve handled enterprise-level front-end projects, collaborated with cross-functional teams, and consistently delivered high-quality results on time.
+
+I also support UI/UX improvements when needed.
+
+Previously, I worked in a fast-paced startup environment using Scrum, where I quickly learned to adapt, research new technologies, and apply them effectively.
 
 Outside of work, I enjoy hiking, reading, and cooking—activities that keep me balanced and inspired.
 
