@@ -43,7 +43,7 @@ Medium｜https://medium.com/@lisalisa12332180
   + Shared the latest AIGC technologies and application methods with an audience of approximately 200 people, enhancing the work efficiency of internal industrial designers and UI/UX designers.
   + Met the web front-end requirements of internal departments using Vue2 and Vue3.
 
-+ Front-End Developer Trainee｜AppWorks School｜2022.06-2022.11
++ AppWorks School｜Front-End Developer Trainee｜2022.06-2022.11
   + Cooperated with back-end engineers to improve the existing project and extend it into a new
 project with live broadcast, e-commerce, and membership system in 10 days, and connected
 various APIs to improve the function
