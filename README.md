@@ -73,9 +73,14 @@ Zod
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/>
           <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+  
 </div>
 
 
