@@ -30,9 +30,11 @@ Medium｜https://medium.com/@lisalisa12332180
 
 ## Work Experience
 + KGI SECURITIES | Front-end Developer｜2024.07-NOW
-  + Developed the official website and warrants website, as well as maintained and managed company systems, using Vue 3 for the front-end framework, C# for the backend, and MSSQL for the database.
-  + Responsible for handling and planning development requirements from the Indonesian branch for Taiwan's IT team.
-  + Responsible for the department's web design, using Figma as the tool.
+  + Led the KGI Securities Warrants Website and the Indonesian branch's Official Website and Warrants Website (with CRM) as PM, UI/UX designer and front-end developer, managing cross-border requirements and timelines in English.
+  + Built a reusable Vuetify component library and design patterns for consistent, scalable code across projects (Vue 3, i18n).
+  + Defined front-end AI Skills and prompt standards with GitHub Copilot to rapidly generate consistent CRM and API modules.
+  + Designed Playwright prompt standards for E2E test generation and integrated them into Azure CI/CD.
+  + Owned penetration-test remediation across all department websites, ensuring OWASP Top 10 (2021) and financial regulatory compliance.
 
 + OneClass｜Front-end Developer｜2023.05-2024.07
   + Developed Line OA and member account binding page from scratch, delivering the task within one week as the sole front-end developer.
