@@ -4,59 +4,16 @@
 <img src="https://media.giphy.com/media/PPgZCwZPKrLcw75EG1/giphy.gif"></div>
 
 ## Who I am
-Hi! I’m a front-end developer with hands-on building smooth, responsive, and user-friendly interfaces.
+Graduated from National Taiwan University (NTU) with 7 years of experience in international brand film and video production, bringing strong visual aesthetics and rigorous project timeline management. Transitioned to frontend engineering with around 4 years of experience across mid-to-large enterprises (ASUS, KGI Securities) and agile startups, proficient in cross-border collaboration in English and Chinese.
 
-I’m fluent in both English and Mandarin, making communication easy and efficient across international teams.
-
-Currently working at KGI Securities, I’ve handled enterprise-level front-end projects, collaborated with cross-functional teams, and consistently delivered high-quality results on time.
-
-I also support UI/UX improvements when needed.
-
-Previously, I worked in a fast-paced startup environment using Scrum, where I quickly learned to adapt, research new technologies, and apply them effectively.
-
-Outside of work, I enjoy hiking, reading, and cooking—activities that keep me balanced and inspired.
-
-Feel free to reach out to me via lisalisa12332180@gmail.com
+Currently serving as a Frontend Architect, focusing on frontend engineering and AI workflow enablement. Responsible for establishing IT department AI Agent development guidelines (skills and prompts) to standardize UI/UX implementation and API code generation for large-scale CRM systems. Simultaneously leading CI/CD pipeline setups, Playwright automated testing adoption, and UI/UX optimization, consistently delivering efficient, high-quality enterprise products.
 
 Email｜lisalisa12332180@gmail.com
-Protfolio | https://my-portfolio-bmxa.vercel.app/
+Protfolio | https://hsuanlabs.com/
 Github｜https://github.com/HsuanPeng
 LinkedIn｜https://www.linkedin.com/in/hsuanpeng19900705/
 Medium｜https://medium.com/@lisalisa12332180
 
-
-
-
-
-## Work Experience
-+ KGI SECURITIES | Front-end Developer｜2024.07-NOW
-  + Led the KGI Securities Warrants Website and the Indonesian branch's Official Website and Warrants Website (with CRM) as PM, UI/UX designer and front-end developer, managing cross-border requirements and timelines in English.
-  + Built a reusable Vuetify component library and design patterns for consistent, scalable code across projects (Vue 3, i18n).
-  + Defined front-end AI Skills and prompt standards with GitHub Copilot to rapidly generate consistent CRM and API modules.
-  + Designed Playwright prompt standards for E2E test generation and integrated them into Azure CI/CD.
-  + Owned penetration-test remediation across all department websites, ensuring OWASP Top 10 (2021) and financial regulatory compliance.
-
-+ OneClass｜Front-end Developer｜2023.05-2024.07
-  + Developed Line OA and member account binding page from scratch, delivering the task within one week as the sole front-end developer.
-  + Independently developed customer service system web functionality from scratch: integrated third-party communication software Sendbird and collaborated with the mobile team to complete the process of customers asking questions via mobile devices and back-end personnel responding and managing, serving as the sole web front-end developer.
-  + Collaborated with the back-end team to complete the Payuni payment integration within one week, saving the company hundreds of thousands in transaction fees.
-  + Collaborated with another front-end developer over the course of a month to develop the OneClass Now exam preparation course purchase website.
-  + Used React, React-query, and MUI to develop and maintain multiple back-end systems websites for the company.
-
-+ ASUS｜Front-end Developer｜2023.01-2023.05
-  + Shared the latest AIGC technologies and application methods with an audience of approximately 200 people, enhancing the work efficiency of internal industrial designers and UI/UX designers.
-  + Met the web front-end requirements of internal departments using Vue2 and Vue3.
-
-+ AppWorks School｜Front-End Developer Trainee｜2022.06-2022.11
-  + Cooperated with back-end engineers to improve the existing project and extend it into a new
-project with live broadcast, e-commerce, and membership system in 10 days, and connected
-various APIs to improve the function
-  + Completed a multifunctional fitness website from UI/UX sketches to actual code independently
-in 5 weeks
-  + Researched unfamiliar technologies, developed new functions and used them appropriately on
-different projects
-  + Researched the 2 themes of Async/Await and Event Propagation and organize them into easyto-
-understand briefs to report to colleagues
 
 ## Skills
 HTML5、CSS、JavaScript (ES6+)、RWD
