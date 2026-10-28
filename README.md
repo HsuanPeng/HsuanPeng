@@ -1,8 +1,8 @@
 
 ## Who I am
-Graduated from National Taiwan University (NTU) with 7 years of experience in international brand film and video production, bringing strong visual aesthetics and rigorous project timeline management. Transitioned to frontend engineering with around 4 years of experience across mid-to-large enterprises (ASUS, KGI Securities) and agile startups, proficient in cross-border collaboration in English and Chinese.
+A graduate of National Taiwan University with 7 years of experience in film and video production for international brands, I bring a strong visual sense and rigorous project scheduling skills. Since moving into front-end engineering, I have spent about 4 years developing at large enterprises (ASUS, KGI Securities) and an agile startup, collaborating fluently with cross-border teams in both English and Mandarin.
 
-Currently serving as a Frontend Architect, focusing on frontend engineering and AI workflow enablement. Responsible for establishing IT department AI Agent development guidelines (skills and prompts) to standardize UI/UX implementation and API code generation for large-scale CRM systems. Simultaneously leading CI/CD pipeline setups, Playwright automated testing adoption, and UI/UX optimization, consistently delivering efficient, high-quality enterprise products.
+In my current role, I focus on front-end architecture, engineering practices and AI-empowered workflows: I own the department's AI Agent development standards (Skills/Prompts), standardizing UI/UX and API code generation for a large-scale CRM system. I also lead CI/CD pipeline setup, Playwright test automation and UI/UX improvements, consistently delivering efficient, high-quality enterprise products for the team.
 
 Email｜lisalisa12332180@gmail.com
 Protfolio | https://hsuanlabs.com/
