@@ -1,7 +1,3 @@
-<br/>
-
-<div align="center">
-<img src="https://media.giphy.com/media/PPgZCwZPKrLcw75EG1/giphy.gif"></div>
 
 ## Who I am
 Graduated from National Taiwan University (NTU) with 7 years of experience in international brand film and video production, bringing strong visual aesthetics and rigorous project timeline management. Transitioned to frontend engineering with around 4 years of experience across mid-to-large enterprises (ASUS, KGI Securities) and agile startups, proficient in cross-border collaboration in English and Chinese.
